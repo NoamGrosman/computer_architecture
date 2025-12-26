@@ -1,0 +1,18 @@
+# Standard C/C++
+*.o
+*.exe
+*.out
+
+# Windows Junk
+*:Zone.Identifier
+
+# Computer Design Traces & Logs (CRITICAL)
+*.trace
+*.trc
+*.log
+*.stats
+*.dump
+
+# Large inputs/outputs
+input_*.txt
+output_*.txt

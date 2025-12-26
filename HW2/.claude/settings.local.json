@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(make clean:*)",
+      "Bash(make)",
+      "Bash(./cacheSim:*)",
+      "Bash(chmod:*)",
+      "Bash(/home/noam0/CompArch_2/run_tests.sh:*)",
+      "Bash(bash:*)",
+      "Bash(echo:*)",
+      "Bash(cat:*)"
+    ]
+  }
+}
